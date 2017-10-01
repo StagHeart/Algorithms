@@ -1,4 +1,4 @@
 # Algorithms
-## My solutions to algorithm problems from leetCode.com
+## My solutions to algorithm problems from leetcode.com
 
 
