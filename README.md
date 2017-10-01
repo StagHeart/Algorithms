@@ -1,7 +1,7 @@
 # Algorithms
-## My solutions to algorithm problems from leetcode.com
+# My solutions to algorithm problems from leetcode.com
 
-### First problem: Longest Substring Without Repeating Characters
+## First problem: ### Longest Substring Without Repeating Characters
 
 Given a string, find the length of the longest substring without repeating characters.
 
